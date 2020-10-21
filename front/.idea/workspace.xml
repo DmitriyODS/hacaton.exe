@@ -19,6 +19,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -27,6 +28,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\osipo\repos\hacaton.exe\front\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\osipo\reps\hacaton.exe\front\src" />
     </key>
@@ -55,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603308930563</updated>
       <workItem from="1603308932861" duration="2355000" />
+      <workItem from="1603318889555" duration="472000" />
     </task>
     <servers />
   </component>
@@ -66,21 +71,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603312865961" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1603312933251">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1603319348786">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603312933251" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1603312933250">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603319348786" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1603319348786">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603312933250" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1603312933250">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603319348786" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1603319348786">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603312933250" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1603312933250">
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603319348786" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1603319348786">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603312933250" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603319348786" />
   </component>
 </project>
